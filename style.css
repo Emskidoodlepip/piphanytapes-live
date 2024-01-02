@@ -92,6 +92,10 @@ body {
 	height:85vh;
 }
 
+#infobox {
+	font-style:italic;
+}
+
 #tapetable {
 	width:100%;
 	height:100%;
