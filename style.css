@@ -1,6 +1,7 @@
 #iconbox {
 	position:absolute;
 	background-image:url("piphanytapesavatar.png");
+	background-size:100%;
 	width:33vw;
 	height:33vw;
 	margin:0;
