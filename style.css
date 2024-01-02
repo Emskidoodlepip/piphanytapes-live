@@ -1,3 +1,35 @@
+@font-face {
+ 	font-family:"Andika";
+ 	src:url("Andika-Regular.ttf") format('ttf');
+ 	font-style:normal;
+ 	font-weight:400;
+}
+
+@font-face {
+ 	font-family:"Andika";
+ 	src:url("Andika-Bold.ttf") format('ttf');
+ 	font-style:normal;
+ 	font-weight:700;
+}
+
+@font-face {
+ 	font-family:"Andika";
+ 	src:url("Andika-Italic.ttf") format('ttf');
+ 	font-style:italic;
+ 	font-weight:400;
+}
+
+@font-face {
+ 	font-family:"Andika";
+ 	src:url("Andika-BoldItalic.ttf") format('ttf');
+ 	font-style:italic;
+ 	font-weight:700;
+}
+
+body {
+	font-family:Andika;
+}
+
 #headbox {
 	position:absolute;
 	left:2vw;
@@ -50,6 +82,10 @@ tr {
 .albumart {
 	max-height:15vh;
 	max-width:15vh;
+}
+
+.albumname {
+	font-style:bold;
 }
 
 .artists span {
