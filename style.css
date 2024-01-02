@@ -49,7 +49,7 @@ tr {
 
 .albumart {
 	max-height:15vh;
-	max-width:auto;
+	max-width:15vh;
 }
 
 .artists span {
