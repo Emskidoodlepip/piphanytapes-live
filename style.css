@@ -1,7 +1,7 @@
 #headbox {
 	position:absolute;
 	left:2vw;
-	top:2vw;
+	top:10vh;
 	width:37.5vw;
 	height:80vh;
 }
@@ -13,7 +13,7 @@
 	width:37.5vw;
 	height:37.5vw;
 	margin:0;
-	top:calc(100vh-27vw);
+	top:0;
 	left:0vw;
 }
 
