@@ -27,3 +27,11 @@
 	bottom:0;
 	left:0;
 }
+
+#tapebox {
+	position:absolute;
+	left:41.5vw;
+	top:10vh;
+	width:56.5vw;
+	height:80vh;
+}
