@@ -2,9 +2,9 @@
 	position:absolute;
 	background-image:url("piphanytapesavatar.png");
 	background-size:100%;
-	width:33vw;
-	height:33vw;
+	width:45vw;
+	height:45vw;
 	margin:0;
-	top:0;
-	left:0;
+	top:calc(100vh-27vw);
+	left:2vw;
 }
