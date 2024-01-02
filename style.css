@@ -26,6 +26,30 @@
  	font-weight:700;
 }
 
+a:link {
+  color:#7422cb;
+  background-color:transparent;
+  text-decoration:underline;
+}
+
+a:visited {
+  color:#7422cb;
+  background-color:transparent;
+  text-decoration:underline;
+}
+
+a:hover {
+  color:#7422cb;
+  background-color:transparent;
+  text-decoration:underline;
+}
+
+a:active {
+  color:#7422cb;
+  background-color:transparent;
+  text-decoration:none;
+}
+
 body {
 	font-family:Andika;
 }
