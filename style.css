@@ -2,7 +2,7 @@
 	position:absolute;
 	left:2vw;
 	top:2vw;
-	width:45vw;
+	width:37.5vw;
 	height:80vh;
 }
 
@@ -10,8 +10,8 @@
 	position:absolute;
 	background-image:url("piphanytapesavatar.png");
 	background-size:100%;
-	width:45vw;
-	height:45vw;
+	width:37.5vw;
+	height:37.5vw;
 	margin:0;
 	top:calc(100vh-27vw);
 	left:0vw;
@@ -21,8 +21,9 @@
 	position:absolute;
 	background-image:url("piphanytapesheader.png");
 	background-size:100%;
-	width:45vw;
+	width:37.5vw;
 	height:calc(0.37784090909*45vw);
 	margin:0;
 	bottom:0;
 	left:0;
+}
