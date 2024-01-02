@@ -1,3 +1,9 @@
+#headbox {
+	position:absolute;
+	left:2vw;
+	top:2vw;
+}
+
 #iconbox {
 	position:absolute;
 	background-image:url("piphanytapesavatar.png");
@@ -6,5 +12,15 @@
 	height:45vw;
 	margin:0;
 	top:calc(100vh-27vw);
-	left:2vw;
+	left:0vw;
 }
+
+#iconbox {
+	position:absolute;
+	background-image:url("piphanytapesheader.png");
+	background-size:100%;
+	width:45vw;
+	height:calc(0.37784090909*45vw);
+	margin:0;
+	bottom:0;
+	left:0;
