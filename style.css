@@ -110,6 +110,7 @@ tr {
 .albumart {
 	max-height:15vh;
 	max-width:15vh;
+	border-radius:5px;
 }
 
 .albumname {
